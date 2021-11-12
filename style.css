@@ -1,0 +1,18 @@
+body, h1, h2, p, a,td, span {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.wrap {
+    background-color:rgba(255, 255, 255, 0.7);
+    width: 800px;
+    color:black;
+    margin: 20px auto;
+    padding:15px;
+}
+.icon {
+    padding:5px;
+    text-align: center;
+}
+span {
+    color: red;
+}
